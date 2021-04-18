@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"tag": "forge:crops/breadfruit"
+	},
+	{
+		"tag": "forge:crops/breadfruit"
+	},
+	{
+		"tag": "forge:crops/breadfruit"
+	}
+],
+
+	"result": {
+		"item": "minecraft:bread"
+	}
+
+}

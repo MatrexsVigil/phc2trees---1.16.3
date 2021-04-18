@@ -1,0 +1,17 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:flour_plants/apple",
+			"#forge:flour_plants/banana",
+			"#forge:flour_plants/coconut",
+			"#forge:flour_plants/breadfruit",
+			"#forge:flour_plants/almond",
+			"#forge:flour_plants/cashew",
+			"#forge:flour_plants/chestnut",
+			"#forge:flour_plants/hazelnut",
+			"#forge:flour_plants/pecan",
+			"#forge:flour_plants/pinenut",
+			"#forge:flour_plants/pistachio",
+			"#forge:flour_plants/walnut"
+	]
+}

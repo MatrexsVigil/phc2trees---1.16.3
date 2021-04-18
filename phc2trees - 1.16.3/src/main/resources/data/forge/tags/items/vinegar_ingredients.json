@@ -1,0 +1,35 @@
+{
+	"replace": false,
+	"values": [
+"#forge:vinegar_ingredients/cherry",
+"#forge:vinegar_ingredients/gooseberry",
+"#forge:vinegar_ingredients/lemon",
+"#forge:vinegar_ingredients/orange",
+"#forge:vinegar_ingredients/peach",
+"#forge:vinegar_ingredients/pear",
+"#forge:vinegar_ingredients/plum",
+"#forge:vinegar_ingredients/pawpaw",
+"#forge:vinegar_ingredients/soursop",
+"#forge:vinegar_ingredients/apricot",
+"#forge:vinegar_ingredients/banana",
+"#forge:vinegar_ingredients/date",
+"#forge:vinegar_ingredients/dragonfruit",
+"#forge:vinegar_ingredients/durian",
+"#forge:vinegar_ingredients/fig",
+"#forge:vinegar_ingredients/grapefruit",
+"#forge:vinegar_ingredients/lime",
+"#forge:vinegar_ingredients/mango",
+"#forge:vinegar_ingredients/papaya",
+"#forge:vinegar_ingredients/persimmon",
+"#forge:vinegar_ingredients/pomegranate",
+"#forge:vinegar_ingredients/starfruit",
+"#forge:vinegar_ingredients/breadfruit",
+"#forge:vinegar_ingredients/guava",
+"#forge:vinegar_ingredients/jackfruit",
+"#forge:vinegar_ingredients/lychee",
+"#forge:vinegar_ingredients/passionfruit",
+"#forge:vinegar_ingredients/rambutan",
+"#forge:vinegar_ingredients/tamarind"
+
+	]
+}
